@@ -1,0 +1,19 @@
+{
+  "name": "viabeal",
+  "version": "1.0.0",
+  "description": "Via Beal Transportes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qtigerq/ViaBeal.git"
+  },
+  "author": "Tiago Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qtigerq/ViaBeal/issues"
+  },
+  "homepage": "https://github.com/qtigerq/ViaBeal#readme"
+}
